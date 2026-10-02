@@ -1,0 +1,4 @@
+Modèle,Accuracy,Précision_macro,Rappel_macro,F1_macro
+Régression logistique multinomiale,0.9571,0.9590,0.9397,0.9469
+Naive Bayes gaussien,0.7500,0.7767,0.6929,0.7152
+k-plus-proches-voisins (k=11),0.7786,0.7558,0.7262,0.7373
